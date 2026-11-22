@@ -1,10 +1,5 @@
-#<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sayash Bende&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc= Thoughts Turn Things, you are not me and that's it.&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Shivraj Bende+👋;YOUR_ROLE;I've spent countless hours making machines smarter and code cleaner. I tackle bugs like puzzles and turn data into stories. I'm ready to roll up my sleeves and prove what I can do." alt="Typing SVG"/>
-</div>
 
-
-# 💫 About Me:
+# 💫 About Me: Thoughts Turn Things, you are not me and that's it.
 🚀 AI Software Engineer | Full-Stack Developer<br><br>Passionate about building AI-powered applications, automation systems, and scalable web products. Skilled in React.js, Next.js, Node.js, Python, MongoDB, PostgreSQL, and Supabase.<br><br>Currently exploring Agentic AI, MCP, LangGraph, CrewAI, and RAG systems while building real-world AI solutions.<br><br>💻 Full Stack Development<br>🤖 Generative AI & AI Agents<br>☁️ Cloud & Deployment<br>📚 Continuous Learner<br><br>Building today for the future.
 
 
