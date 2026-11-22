@@ -1,6 +1,6 @@
 
 # 💫 About Me: Thoughts Turn Things, you are not me and that's it.
-🚀 AI Software Engineer | Full-Stack Developer<br><br>Passionate about building AI-powered applications, automation systems, and scalable web products. Skilled in React.js, Next.js, Node.js, Python, MongoDB, PostgreSQL, and Supabase.<br><br>Currently exploring Agentic AI, MCP, LangGraph, CrewAI, and RAG systems while building real-world AI solutions.<br><br>💻 Full Stack Development<br>🤖 Generative AI & AI Agents<br>☁️ Cloud & Deployment<br>📚 Continuous Learner<br><br>Building today for the future.
+Full-Stack Developer<br><br>Currently exploring Agentic AI, MCP, LangGraph, CrewAI, and RAG systems while building real-world AI solutions.<br><br>💻 Full Stack Development<br>🤖 Generative AI & AI Agents<br>☁️ Cloud & Deployment<br>📚 Continuous Learner<br><br>Building today for the future.
 
 
 ## 🌐 Socials:
